@@ -1,0 +1,17 @@
+D:\VISUAL STUDIO 2019\Connecting Firebase to C#\Connecting Firebase to CSharp\Connecting Firebase to CSharp\bin\Debug\Connecting Firebase to CSharp.exe.config
+D:\VISUAL STUDIO 2019\Connecting Firebase to C#\Connecting Firebase to CSharp\Connecting Firebase to CSharp\bin\Debug\Connecting Firebase to CSharp.exe
+D:\VISUAL STUDIO 2019\Connecting Firebase to C#\Connecting Firebase to CSharp\Connecting Firebase to CSharp\bin\Debug\Connecting Firebase to CSharp.pdb
+D:\VISUAL STUDIO 2019\Connecting Firebase to C#\Connecting Firebase to CSharp\Connecting Firebase to CSharp\bin\Debug\FireSharp.dll
+D:\VISUAL STUDIO 2019\Connecting Firebase to C#\Connecting Firebase to CSharp\Connecting Firebase to CSharp\bin\Debug\FireSharp.Serialization.JsonNet.dll
+D:\VISUAL STUDIO 2019\Connecting Firebase to C#\Connecting Firebase to CSharp\Connecting Firebase to CSharp\bin\Debug\Newtonsoft.Json.dll
+D:\VISUAL STUDIO 2019\Connecting Firebase to C#\Connecting Firebase to CSharp\Connecting Firebase to CSharp\bin\Debug\RestSharp.dll
+D:\VISUAL STUDIO 2019\Connecting Firebase to C#\Connecting Firebase to CSharp\Connecting Firebase to CSharp\bin\Debug\Newtonsoft.Json.xml
+D:\VISUAL STUDIO 2019\Connecting Firebase to C#\Connecting Firebase to CSharp\Connecting Firebase to CSharp\bin\Debug\RestSharp.xml
+D:\VISUAL STUDIO 2019\Connecting Firebase to C#\Connecting Firebase to CSharp\Connecting Firebase to CSharp\obj\Debug\Connecting Firebase to CSharp.csprojAssemblyReference.cache
+D:\VISUAL STUDIO 2019\Connecting Firebase to C#\Connecting Firebase to CSharp\Connecting Firebase to CSharp\obj\Debug\Connecting_Firebase_to_CSharp.Form1.resources
+D:\VISUAL STUDIO 2019\Connecting Firebase to C#\Connecting Firebase to CSharp\Connecting Firebase to CSharp\obj\Debug\Connecting_Firebase_to_CSharp.Properties.Resources.resources
+D:\VISUAL STUDIO 2019\Connecting Firebase to C#\Connecting Firebase to CSharp\Connecting Firebase to CSharp\obj\Debug\Connecting Firebase to CSharp.csproj.GenerateResource.cache
+D:\VISUAL STUDIO 2019\Connecting Firebase to C#\Connecting Firebase to CSharp\Connecting Firebase to CSharp\obj\Debug\Connecting Firebase to CSharp.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO 2019\Connecting Firebase to C#\Connecting Firebase to CSharp\Connecting Firebase to CSharp\obj\Debug\Connecting Firebase to CSharp.csproj.CopyComplete
+D:\VISUAL STUDIO 2019\Connecting Firebase to C#\Connecting Firebase to CSharp\Connecting Firebase to CSharp\obj\Debug\Connecting Firebase to CSharp.exe
+D:\VISUAL STUDIO 2019\Connecting Firebase to C#\Connecting Firebase to CSharp\Connecting Firebase to CSharp\obj\Debug\Connecting Firebase to CSharp.pdb
