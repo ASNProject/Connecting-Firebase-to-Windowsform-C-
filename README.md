@@ -162,12 +162,11 @@ Choose Setting => Setting Project => Service Account => Secret Database => Copy 
 
 
 
-<p align="right">
+
 ###### Author
 
 ASNProject<br />
 email: asnproject02@gmail.com
-</p>
 
 
 
