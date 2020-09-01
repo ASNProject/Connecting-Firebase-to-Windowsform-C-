@@ -71,7 +71,103 @@ using FireSharp.Response;
         IFirebaseClient client;
     }
 
-TO 
+To find the Token and link, Please follow this image below:<br />
+###### Find link firebase
+
+![image](https://user-images.githubusercontent.com/49858542/91788319-1ac92380-ec36-11ea-9e96-eac7a45c1a22.png)
+
+###### Find Token Secret Firebase<br />
+Choose Setting => Setting Project => Service Account => Secret Database => Copy the uniqe code 
+
+![image](https://user-images.githubusercontent.com/49858542/91788511-9925c580-ec36-11ea-8814-77973f332768.png)
+
+![image](https://user-images.githubusercontent.com/49858542/91788520-9e831000-ec36-11ea-8d61-b8459a984948.png)
+
+###### c. Write code if the Button Click
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            client = new FireSharp.FirebaseClient(config);
+            if (client != null)
+            {
+                label1.Text = "Connected Firebase";
+                label1.ForeColor = Color.Green;
+            }
+        }
+
+## 6. Run the project
+
+![image](https://user-images.githubusercontent.com/49858542/91788671-fde12000-ec36-11ea-9979-aeb1a997f0ae.png)
+
+![image](https://user-images.githubusercontent.com/49858542/91788677-00dc1080-ec37-11ea-8151-0f3094423de2.png)
+
+## 7. Full Source Code
+
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+using FireSharp.Config;
+using FireSharp.Interfaces;
+using FireSharp.Response;
+
+namespace Connecting_Firebase_to_CSharp
+{
+    public partial class Form1 : Form
+    {
+        IFirebaseConfig config = new FirebaseConfig
+        {
+            AuthSecret = "kE5gZJFZXJLsKgQGYaTpL40690kkhOpJNC3UjjO8", //Masukkan Token Rahasia Firebase
+            BasePath = "https://fir-csharp-cb339.firebaseio.com/" //Masukkan Link Firebase
+        };
+
+        IFirebaseClient client;
+
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            client = new FireSharp.FirebaseClient(config);
+            if (client != null)
+            {
+                label1.Text = "Connected Firebase";
+                label1.ForeColor = Color.Green;
+            }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+
+    }
+}
+
+
+
+
+
+###### Author
+
+ASNProject<br />
+email: asnproject02@gmail.com
+
+
 
 
 
